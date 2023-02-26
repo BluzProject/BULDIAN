@@ -1,0 +1,71 @@
+[
+  {
+    "id": "6281219427103-1619178969@g.us",
+    "status": true,
+    "iswin": null,
+    "cooldown": 1673187743441,
+    "day": 1,
+    "time": "malem",
+    "player": [
+      {
+        "id": "6282393134149@s.whatsapp.net",
+        "idny": 5,
+        "sesi": "6281219427103-1619178969@g.us",
+        "status": false,
+        "role": "werewolf",
+        "effect": [],
+        "vote": 0,
+        "isdead": true,
+        "isvote": true
+      },
+      {
+        "id": "6289696090800@s.whatsapp.net",
+        "idny": 1,
+        "sesi": "6281219427103-1619178969@g.us",
+        "status": false,
+        "role": "warga",
+        "effect": [],
+        "vote": 0,
+        "isdead": false,
+        "isvote": false
+      },
+      {
+        "id": "6285340031679@s.whatsapp.net",
+        "idny": 2,
+        "sesi": "6281219427103-1619178969@g.us",
+        "status": false,
+        "role": "warga",
+        "effect": [],
+        "vote": 0,
+        "isdead": true,
+        "isvote": false
+      },
+      {
+        "id": "6282188667576@s.whatsapp.net",
+        "idny": 3,
+        "sesi": "6281219427103-1619178969@g.us",
+        "status": false,
+        "role": "warga",
+        "effect": [],
+        "vote": 0,
+        "isdead": false,
+        "isvote": true
+      },
+      {
+        "id": "62811448617@s.whatsapp.net",
+        "idny": 4,
+        "sesi": "6281219427103-1619178969@g.us",
+        "status": false,
+        "role": "seer",
+        "effect": [],
+        "vote": 0,
+        "isdead": false,
+        "isvote": true
+      }
+    ],
+    "dead": [],
+    "voting": false,
+    "seer": false,
+    "guradian": []
+  }
+]
